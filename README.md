@@ -5,6 +5,9 @@
 This project demonstrates the process of dockerizing a simple Python Flask web application. The primary steps involved include creating the Flask application, writing a Dockerfile to containerize the application, and building and running the Docker container. Once set up, the Flask application can be accessed via a web browser at http://localhost:5000.
 
 
+![architecture](https://github.com/DDanielcoding/Docker_project/assets/155651525/e8904606-fd2f-4596-93a6-c3571b9ceb46)
+
+
 
 
 
