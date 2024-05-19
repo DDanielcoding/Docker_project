@@ -15,6 +15,10 @@ Create a simple Flask application that serves a basic HTML page. The Flask app c
 
 Create a Dockerfile that defines the environment and dependencies needed to run the Flask application. The Dockerfile includes instructions for installing required libraries and frameworks, copying the Flask app files into the container, and setting the entrypoint for the container.
 
+## Step 3: Build and Run the Docker container
+
+<code>docker build -t myflaskapp .</code><br><br>
+
 
 # Docker_project
 Basic docker project for showcase purposes
