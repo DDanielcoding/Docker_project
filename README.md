@@ -7,4 +7,5 @@ Diagram illustrates the tree main steps involved with dockerizing a python flask
 
 First step is to create a flask application. that serves as a basic HTML page the flask app consists of app.py file that defines the roads and logic for the application as well as any templates or static files needed by the app.
 
-The 2nd 
+The 2nd step is to create a Docker file this step involves creating a docker file that defines the environment and dependencies needed to run the flask application.
+The docker file includes instructions for installing any required libraries and Frameworks copying the flask app files into the container and setting the entrypoint for the container.
