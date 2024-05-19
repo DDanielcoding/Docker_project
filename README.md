@@ -8,8 +8,12 @@ This project demonstrates the process of dockerizing a simple Python Flask web a
 ![architecture](https://github.com/DDanielcoding/Docker_project/assets/155651525/e8904606-fd2f-4596-93a6-c3571b9ceb46)
 
 
-# Step 1: Create the Flask Application
+## Step 1: Create the Flask Application
 Create a simple Flask application that serves a basic HTML page. The Flask app consists of an app.py file that defines the routes and logic for the application, as well as any templates or static files needed by the app.
+
+## Step 2: Write the Dockerfile
+
+Create a Dockerfile that defines the environment and dependencies needed to run the Flask application. The Dockerfile includes instructions for installing required libraries and frameworks, copying the Flask app files into the container, and setting the entrypoint for the container.
 
 
 # Docker_project
