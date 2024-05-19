@@ -19,6 +19,8 @@ Create a Dockerfile that defines the environment and dependencies needed to run 
 
 <code>docker build -t myflaskapp .</code><br><br>
 
+## Run the Docker container based on the image:
+<code>docker run -p 5000:5000 myflaskapp</code><br><br>
 
 # Docker_project
 Basic docker project for showcase purposes
