@@ -12,4 +12,5 @@ The docker file includes instructions for installing any required libraries and 
 
 The 3rd step is to build and run the docker container. This steps involves building the docker image from the docker file and then running the container based on the image.
 
-Once the container is running
+Once the container is running you can ask access to the flask application in your web browser at localhost:5000.
+
